@@ -1,5 +1,4 @@
-﻿# LAB-test1
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="th">
 <head>
     <meta charset="UTF-8">
