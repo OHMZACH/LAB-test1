@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿<!DOCTYPE html>
+=======
+<!DOCTYPE html>
+>>>>>>> 69eb82dd75103ac6ea53c49e1de5fde38ae9448b
 <html lang="th">
 <head>
     <meta charset="UTF-8">
